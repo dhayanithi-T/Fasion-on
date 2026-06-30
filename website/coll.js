@@ -26,3 +26,4 @@ function closenav()
 {
      sidenav.style.left="-60%"
 }
+justifyContthdthvjhvuycutxutxftutfuyyfu
